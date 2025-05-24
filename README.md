@@ -1,4 +1,4 @@
-# 🔥 Blaze Edge – Revolutionizing Automotive Ecommerce with Generative AI
+# 🔥 Blaze Edge – Revolutionizing Automotive Ecommerce with Generative AI (Copyrighted)
 
 Welcome to **Blaze Edge**, a GenAI-powered platform to transform automotive e-commerce for both **customers** and **manufacturers**. Blaze Edge leverages deep personalization and actionable insights to enhance customer experience and drive competitive success in the automotive sector.
 

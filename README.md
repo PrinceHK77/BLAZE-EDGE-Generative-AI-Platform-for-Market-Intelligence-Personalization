@@ -2,6 +2,8 @@
 
 Welcome to **Blaze Edge**, a GenAI-powered platform to transform automotive e-commerce for both **customers** and **manufacturers**. Blaze Edge leverages deep personalization and actionable insights to enhance customer experience and drive competitive success in the automotive sector.
 
+https://github.com/user-attachments/assets/ea615769-14c9-4f73-903d-c6d76a842eca
+
 ## 🚀 Overview
 
 Blaze Edge is not just another e-commerce site. It’s an **AI-driven recommender system** that offers:
@@ -95,14 +97,6 @@ Blaze Edge is not just another e-commerce site. It’s an **AI-driven recommende
 - Real-time market & trend analysis
 - Integration with dealership inventory & test drives
 - Predictive analytics for demand forecasting
-
----
-
-## 📸 Demo & Assets
-
-
-https://github.com/user-attachments/assets/ea615769-14c9-4f73-903d-c6d76a842eca
-
 
 ---
 

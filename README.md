@@ -1,6 +1,6 @@
 # 🔥 Blaze Edge – Revolutionizing Automotive Ecommerce with Generative AI
 
-Welcome to **Blaze Edge**, a GenAI-powered platform designed by **Team InnovoTribe** to transform automotive e-commerce for both **customers** and **manufacturers**. Blaze Edge leverages deep personalization and actionable insights to enhance customer experience and drive competitive success in the automotive sector.
+Welcome to **Blaze Edge**, a GenAI-powered platform to transform automotive e-commerce for both **customers** and **manufacturers**. Blaze Edge leverages deep personalization and actionable insights to enhance customer experience and drive competitive success in the automotive sector.
 
 ## 🚀 Overview
 

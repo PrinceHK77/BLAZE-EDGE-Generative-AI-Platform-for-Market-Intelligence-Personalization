@@ -79,7 +79,7 @@ Blaze Edge is not just another e-commerce site. It’s an **AI-driven recommende
 
 ---
 
-## 📊 Results
+## 📊 Expected Results
 
 | Metric | Improvement |
 |--------|-------------|
